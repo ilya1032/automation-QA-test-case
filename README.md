@@ -3,4 +3,4 @@ This is a test case for QA automation engineer internship
 
 clone repo -> mvn test
 
-for surefire report to see use "mvn site"
+to see a surefire report use "mvn site"
